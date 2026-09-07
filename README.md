@@ -4,7 +4,7 @@ A free railway desktop application for Windows 10 and 11 (64-bit).
 
 ## Update test
 
-Download [ADTV update test 01](https://github.com/NagayamaStation/ADTV-Releases/releases/tag/update-test-01), extract the complete ZIP into a permanent writable folder, and run `DesktopYamanoteLine.exe` at the top level. Keep the `app` folder beside it.
+Download [the ADTV update test starter](https://github.com/NagayamaStation/ADTV-Releases/releases/tag/update-test-start), extract the complete ZIP into a permanent writable folder, and run `DesktopYamanoteLine.exe` at the top level. Keep the `app` folder beside it.
 
 To try an update immediately, open **Settings > Updates > Check for updates**, then download and install the available update. Automatic updates check daily at 02:00 local time, or five minutes after startup/resume when a check was missed. No account is required.
 
